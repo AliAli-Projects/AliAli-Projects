@@ -2,7 +2,7 @@
 - 👀 I’m interested in Creating my own Project with the help of GIT community
 - 🌱 I’m currently learning in programming and developing
 - 💞️ I’m looking to collaborate on anything intresting
-- 📫 How to reach me Aliatwork@gmail.com
+- 📫 How to reach me Aliatwork8@gmail.com
 
 <!---
 AliAli-Projects/AliAli-Projects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
